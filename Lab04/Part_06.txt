@@ -1,0 +1,4 @@
+These are a few sentences for the text editor. Testing one two. I will now go back to edit mode.
+
+Adding more content. I skipped a line by pressing enter when in insert mode. I will now test if the line wraps automatically to the next line. It appears that it does, but it will cut off words.
+Ah I see now, the line wraps because it didn't fit in my terminal window but it still all counts as line 3. This is currently line 4.
